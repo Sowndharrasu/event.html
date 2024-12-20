@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+    
+    </head>
+    <body bgcolor="black" style="color:white">
+        <center>
+            <h1>Upcoming Events📅</h1>
+            <p>Don't miss any of your important events.stay updated</p>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta nam obcaecati, error repudiandae odit sed fugit repellat officia fuga ipsa rerum corporis ab ut voluptatibus eveniet facilis corrupti similique commodi omnis dolorum, amet alias porro nesciunt! Consectetur autem unde soluta magnam dignissimos ea placeat quae officiis voluptate quos minima, distinctio labore consequuntur deserunt perspiciatis suscipit quidem quas fugiat totam perferendis quaerat fuga. Molestias reiciendis iste laborum culpa possimus deserunt voluptatibus repudiandae maiores facilis consequuntur quisquam deleniti quis, assumenda impedit tenetur saepe natus accusantium cumque minima illo nostrum commodi error autem? Id quas explicabo rem possimus tempore excepturi tempora, impedit atque.
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>Photo Gallery</h1>
+        <h2>Free Entry | Free Food | Pets are not Allowed</h2>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa consequatur vitae quibusdam tempora ut ea quaerat commodi, corrupti voluptas fugiat minima fugit dolorum perspiciatis numquam quidem aliquam, quod non voluptatum laudantium repellat neque facere nihil voluptate iusto? A facilis voluptates aperiam quas corrupti molestias perferendis dignissimos. Aut unde aliquam sapiente?
+        </p>
+        </center>
+        <center>
+            <img src="img/event2.png">
+            <h1>
+                <a href="https://www.youtube.com/watch?v=qFN76J_4HvE">Fashion store</a>
+            </h1>
+            <h2>Free Entry | Free Food | Pets are not Allowed</h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa consequatur vitae quibusdam tempora ut ea quaerat commodi, corrupti voluptas fugiat minima fugit dolorum perspiciatis numquam quidem aliquam, quod non voluptatum laudantium repellat neque facere nihil voluptate iusto? A facilis voluptates aperiam quas corrupti molestias perferendis dignissimos. Aut unde aliquam sapiente?
+            </p>
+
+        </center>
+        <center>
+        <hr>
+        <h1>Contact</h1>
+        <h2>987654321 | mundakanni@gmail.com</h2>
+        <p>no99, dubai kuruku sandhu near bus stand DUBAI:600012</p>
+        </center>
+    
+    </body>
+</html>
